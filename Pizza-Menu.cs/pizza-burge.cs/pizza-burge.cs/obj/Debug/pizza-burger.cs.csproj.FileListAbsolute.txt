@@ -1,0 +1,8 @@
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\bin\Debug\pizza-burge.cs.exe.config
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\bin\Debug\pizza-burge.cs.exe
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\bin\Debug\pizza-burge.cs.pdb
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\obj\Debug\pizza-burger.cs.csproj.AssemblyReference.cache
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\obj\Debug\pizza-burger.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\obj\Debug\pizza-burger.cs.csproj.CoreCompileInputs.cache
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\obj\Debug\pizza-burge.cs.exe
+C:\Users\Karabo\OneDrive\Desktop\GIT PROJECTS\1Project - Multiple languages\Pizza-Burger-Menu\Pizza-Menu.cs\pizza-burge.cs\pizza-burge.cs\obj\Debug\pizza-burge.cs.pdb
